@@ -1,0 +1,31 @@
+Product_ID,Brand_ID,Category_ID,Product_Name,List_Price_USD,Product_Rating,Price_Tier,Demand_Level
+P001,B01,C01,Air Max 97,170,3.9,Core,Medium
+P002,B01,C01,Air Max 90,130,4.5,Value,Medium
+P003,B01,C01,Pegasus 41,140,4.3,Premium,High
+P004,B01,C01,Vomero 18,160,4.3,Core,Medium
+P005,B01,C02,Dunk Low,120,4.2,Premium,High
+P006,B01,C02,Air Force 1,115,4.7,Premium,Medium
+P007,B01,C02,Court Vision Low,80,4.7,Premium,Medium
+P008,B01,C02,Blazer Mid '77,110,4.8,Premium,Medium
+P009,B01,C03,LeBron 22,200,4.7,Premium,Medium
+P010,B01,C03,Ja 2,125,4.6,Core,Medium
+P011,B01,C03,GT Cut 3,190,4.0,Core,Medium
+P012,B01,C03,KD 17,160,4.3,Core,Medium
+P013,B01,C04,Pegasus Trail 5,150,4.6,Core,Medium
+P014,B01,C04,ACG Mountain Fly,180,4.1,Core,Medium
+P015,B01,C04,Juniper Trail 3,95,4.5,Core,Medium
+P016,B02,C01,Ultraboost 20,180,4.5,Core,Low
+P017,B02,C01,Supernova Rise,150,4.0,Core,Medium
+P018,B02,C01,Adizero Boston 12,160,4.2,Core,Medium
+P019,B02,C01,Adistar 3,140,4.2,Premium,High
+P020,B02,C02,Samba OG,120,4.5,Core,Medium
+P021,B02,C02,Gazelle,110,4.8,Core,High
+P022,B02,C02,Campus 00s,110,4.1,Core,High
+P023,B02,C02,Forum Low,100,4.8,Value,Medium
+P024,B02,C03,Dame 9,140,4.3,Value,High
+P025,B02,C03,Harden Vol. 9,160,4.1,Core,Medium
+P026,B02,C03,AE 1,130,4.3,Premium,High
+P027,B02,C03,D.O.N. Issue 6,120,4.1,Core,High
+P028,B02,C04,Terrex Agravic,150,4.2,Core,Medium
+P029,B02,C04,Terrex Free Hiker,200,4.6,Core,Medium
+P030,B02,C04,Terrex Swift R3,170,4.6,Value,Medium
